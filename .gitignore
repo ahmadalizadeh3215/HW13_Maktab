@@ -8,3 +8,17 @@
 /src/main/java/Entity/Professor.java
 /src/main/java/Entity/StatusEmployee.java
 /src/main/java/Entity/Student.java
+/src/main/java/Util/SessionFactorySingleton.java
+/src/main/java/Repository/
+/src/main/java/Repository/AllCourseRepository.java
+/src/main/java/Repository/BaseRepository.java
+/src/main/java/Repository/ChooseUnitRepository.java
+/src/main/java/Repository/CourseInterface.java
+/src/main/java/Repository/CourseRepository.java
+/src/main/java/Repository/EmployeeRepository.java
+/src/main/java/Repository/GradeCourseInterface.java
+/src/main/java/Repository/GradeCourseRepository.java
+/src/main/java/Repository/OperationByNationalCode.java
+/src/main/java/Repository/ProfessorRepository.java
+/src/main/java/Repository/StudentRepository.java
+/src/main/java/Repository/UserInterface.java
