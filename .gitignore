@@ -46,3 +46,7 @@
 /src/main/java/ExceptionManagment/ScoreOutOfRange.java
 /src/main/java/ExceptionManagment/InvalidName.java
 /src/main/java/ExceptionManagment/RecordDoesNotExist.java
+/src/main/java/Util/
+/src/main/java/Util/App.java
+/src/main/java/Util/FakeDB.java
+/src/main/java/Util/Main.java
